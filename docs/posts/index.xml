@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on bigisland.eu</title>
+    <link>https://bigisland.eu/posts/</link>
+    <description>Recent content in Posts on bigisland.eu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Mar 2018 14:03:33 +0100</lastBuildDate><atom:link href="https://bigisland.eu/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>lorem ipsum</title>
+      <link>https://bigisland.eu/posts/lorem_ipsum/</link>
+      <pubDate>Thu, 08 Mar 2018 14:03:33 +0100</pubDate>
+      
+      <guid>https://bigisland.eu/posts/lorem_ipsum/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>subwoofer</title>
+      <link>https://bigisland.eu/posts/subwoofer/</link>
+      <pubDate>Tue, 14 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://bigisland.eu/posts/subwoofer/</guid>
+      <description>Schon seit einigen Jahren begleiten mich meine beiden Satelliten. Genauer gesagt zwei Stereo HiFi Boxen, die ich mir nach einem Bausatz von Akustik Art in Kiel zusammengestellt habe.
+Bestehend aus dem Hochtöner Peerless XD 270F/4 und dem Tiefmitteltöner Tang Band W4-657.
+Seit Jahren fehlt aber der dazugehörige Subwoofer, der in seinen Einzelteilen mit Aktivmodul und dem Lautsprecher im Regal lag.
+Vorgabe für das Design war ein ungefähres Volumen von 50 Litern mit den Abmessungen: 500x400x240</description>
+    </item>
+    
+  </channel>
+</rss>
