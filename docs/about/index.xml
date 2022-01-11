@@ -2,17 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on bigisland.eu</title>
-    <link>https://bigisland.eu/about/</link>
+    <link>https://www.bigisland.eu/about/</link>
     <description>Recent content in Abouts on bigisland.eu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bigisland.eu/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.bigisland.eu/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Impressum</title>
-      <link>https://bigisland.eu/about/impressum/</link>
+      <link>https://www.bigisland.eu/about/impressum/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://bigisland.eu/about/impressum/</guid>
+      <guid>https://www.bigisland.eu/about/impressum/</guid>
       <description>Johannes Drees
 [domain][at]gmail[dot]com
 Disclaimer - rechtliche Hinweise - Datenschutzerklärung  Warnhinweis zu Inhalten  Die kostenlosen und frei zugänglichen Inhalte dieser Webseite wurden mit größtmöglicher Sorgfalt erstellt. Der Anbieter dieser Webseite übernimmt jedoch keine Gewähr für die Richtigkeit und Aktualität der bereitgestellten kostenlosen und frei zugänglichen journalistischen Ratgeber und Nachrichten. Namentlich gekennzeichnete Beiträge geben die Meinung des jeweiligen Autors und nicht immer die Meinung des Anbieters wieder. Allein durch den Aufruf der kostenlosen und frei zugänglichen Inhalte kommt keinerlei Vertragsverhältnis zwischen dem Nutzer und dem Anbieter zustande, insoweit fehlt es am Rechtsbindungswillen des Anbieters.</description>
