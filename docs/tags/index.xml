@@ -3,11 +3,11 @@
   <channel>
     <title>Tags on bigisland.eu</title>
     <link>https://www.bigisland.eu/tags/</link>
-    <description>Recent content in Tags on bigisland.eu</description>
+    <description>bigisland.eu (Tags)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://www.bigisland.eu/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.bigisland.eu/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
