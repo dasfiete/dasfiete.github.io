@@ -3,11 +3,11 @@
   <channel>
     <title>Categories on bigisland.eu</title>
     <link>https://www.bigisland.eu/categories/</link>
-    <description>bigisland.eu (Categories)</description>
+    <description>Recent content in Categories on bigisland.eu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    <atom:link href="https://www.bigisland.eu/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.bigisland.eu/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
